@@ -12,7 +12,7 @@ http://192.168.1.1:35455/huya/wzgxs1
 http://192.168.1.1:35455/huya/333003
 #EXTINF:-1 tvg-logo="null" group-title="自定义",大熊小清新
 http://192.168.1.1:35455/huya/585800
-#EXTINF:-1 tvg-logo="null" group-title="https://huyaimg.msstatic.com/avatar/1058/92/36f269f4bf017fb06ac06784a3ef9c_180_135.jpg?1552195655",托马斯CzH
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/92/36f269f4bf017fb06ac06784a3ef9c_180_135.jpg?1552195655" group-title="绝地求生",托马斯CzH
 http://192.168.1.1:35455/huya/20641
 #EXTINF:-1 tvg-logo="null" group-title="自定义",4AM永远妖妖丷
 http://192.168.1.1:35455/huya/791166
@@ -28,12 +28,10 @@ http://192.168.1.1:35455/huya/7911
 http://192.168.1.1:35455/huya/88617
 #EXTINF:-1 tvg-logo="null" group-title="自定义",青春
 http://192.168.1.1:35455/huya/520715
-#EXTINF:-1 tvg-logo="null" group-title="https://huyaimg.msstatic.com/avatar/1048/3f/bcee49c7dec94b4fb6949b7d48598b_180_135.jpg?0",杆哥
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/3f/bcee49c7dec94b4fb6949b7d48598b_180_135.jpg?0" group-title="王者荣耀",杆哥
 http://192.168.1.1:35455/huya/475974
 #EXTINF:-1 tvg-logo="null" group-title="自定义",大熊小清新
 http://192.168.1.1:35455/huya/585800
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/b9/b6824c9d5593f03f5b5c4f71189023_180_135.jpg?1564815405" group-title="王者荣耀",张大仙
-http://192.168.1.1:35455/huya/688
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1084/b7/896bc815db9560eabbcb4a227f62ba_180_135.jpg?1416387967" group-title="英雄联盟",卡尔
 http://192.168.1.1:35455/huya/521000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/bf/fd6f69d69c0015eaface1f6024869e_180_135.jpg?1619540458" group-title="原创",狂鸟丶楚河-90327
