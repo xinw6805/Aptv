@@ -3,239 +3,239 @@
 #EXT-X-APTV-TYPE local
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1056/57/5a06880da605e4a2d4811266a26727_180_135.jpg?1596018478&465496" group-title="魔兽世界",上帝
-http://192.168.1.1:35455/huya/shangdi(?cdn=HW)
+http://192.168.1.1:35455/huya/shangdi
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/7b/e6ce93da5ea071e47b179f3dad5431_180_135.jpg?1614151023&465495" group-title="战地5",花子ohhh
-http://192.168.1.1:35455/huya/28260962(?cdn=HW)
+http://192.168.1.1:35455/huya/28260962
 #EXTINF:-1 tvg-name="虎牙4K王者荣耀" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/huya4khonor.jpg" group-title="王者荣耀",虎牙4K王者荣耀
-http://192.168.1.1:35455/huya/wzgxs1(?cdn=HW)
+http://192.168.1.1:35455/huya/wzgxs1
 #EXTINF:-1 tvg-logo="null" group-title="自定义",Zz1tai姿态
-http://192.168.1.1:35455/huya/333003(?cdn=HW)
+http://192.168.1.1:35455/huya/333003
 #EXTINF:-1 tvg-logo="null" group-title="自定义",大熊小清新
-http://192.168.1.1:35455/huya/585800(?cdn=HW)
+http://192.168.1.1:35455/huya/585800
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/92/36f269f4bf017fb06ac06784a3ef9c_180_135.jpg?1552195655" group-title="绝地求生",托马斯CzH
-http://192.168.1.1:35455/huya/20641(?cdn=HW)
+http://192.168.1.1:35455/huya/20641
 #EXTINF:-1 tvg-logo="null" group-title="自定义",4AM永远妖妖丷
-http://192.168.1.1:35455/huya/791166(?cdn=HW)
+http://192.168.1.1:35455/huya/791166
 #EXTINF:-1 tvg-logo="null" group-title="自定义",iFTY龙Skr
-http://192.168.1.1:35455/huya/705377(?cdn=HW)
+http://192.168.1.1:35455/huya/705377
 #EXTINF:-1 tvg-logo="null" group-title="自定义",4AMLong
-http://192.168.1.1:35455/huya/791102(?cdn=HW)
+http://192.168.1.1:35455/huya/791102
 #EXTINF:-1 tvg-logo="null" group-title="自定义",4AMCRAZY112代
-http://192.168.1.1:35455/huya/7911112(?cdn=HW)
+http://192.168.1.1:35455/huya/7911112
 #EXTINF:-1 tvg-logo="null" group-title="自定义",4AMGodv
-http://192.168.1.1:35455/huya/7911(?cdn=HW)
+http://192.168.1.1:35455/huya/7911
 #EXTINF:-1 tvg-logo="null" group-title="自定义",久帝告白
-http://192.168.1.1:35455/huya/88617(?cdn=HW)
+http://192.168.1.1:35455/huya/88617
 #EXTINF:-1 tvg-logo="null" group-title="自定义",青春
-http://192.168.1.1:35455/huya/520715(?cdn=HW)
+http://192.168.1.1:35455/huya/520715
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/3f/bcee49c7dec94b4fb6949b7d48598b_180_135.jpg?0" group-title="王者荣耀",杆哥
-http://192.168.1.1:35455/huya/475974(?cdn=HW)
+http://192.168.1.1:35455/huya/475974
 #EXTINF:-1 tvg-logo="null" group-title="自定义",大熊小清新
-http://192.168.1.1:35455/huya/585800(?cdn=HW)
+http://192.168.1.1:35455/huya/585800
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1084/b7/896bc815db9560eabbcb4a227f62ba_180_135.jpg?1416387967" group-title="英雄联盟",卡尔
-http://192.168.1.1:35455/huya/521000(?cdn=HW)
+http://192.168.1.1:35455/huya/521000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/bf/fd6f69d69c0015eaface1f6024869e_180_135.jpg?1619540458" group-title="原创",狂鸟丶楚河-90327
-http://192.168.1.1:35455/huya/998(?cdn=HW)
+http://192.168.1.1:35455/huya/998
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1654682529" group-title="英雄联盟",虎牙英雄联盟赛事
-http://192.168.1.1:35455/huya/660000(?cdn=HW)
+http://192.168.1.1:35455/huya/660000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/be/5b8bde4a7f4727361165d63acc9b81_180_135.jpg?1585910981" group-title="英雄联盟手游",天霸-蛇哥Colin
-http://192.168.1.1:35455/huya/5269(?cdn=HW)
+http://192.168.1.1:35455/huya/5269
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/77/a4286776aa02881faa959bbb2a94d5_180_135.jpg?1598180690" group-title="王者荣耀",久爱-预见【吕德华】
-http://192.168.1.1:35455/huya/243547(?cdn=HW)
+http://192.168.1.1:35455/huya/243547
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/cf/958d77268d883ba42f7ffd97de1e54_180_135.jpg?1635169703" group-title="英雄联盟",盛世-叫我久哥哥【GLZ】
-http://192.168.1.1:35455/huya/529(?cdn=HW)
+http://192.168.1.1:35455/huya/529
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/02/54d4eebf6901e1eb24ec07f81eb7b5_180_135.jpg?1583999352" group-title="王者荣耀",LING-赖神
-http://192.168.1.1:35455/huya/99724(?cdn=HW)
+http://192.168.1.1:35455/huya/99724
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/b7/ad1b03bbf11572bc8859f7a8fe5b1b_180_135.jpg?1585153940" group-title="英雄联盟",雨初歇-北枫
-http://192.168.1.1:35455/huya/572329(?cdn=HW)
+http://192.168.1.1:35455/huya/572329
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/91/8d3bdc8f5f612681908f63f9fd40da_180_135.jpg?1579005632" group-title="天天吃鸡",RASH悲喜
-http://192.168.1.1:35455/huya/52988(?cdn=HW)
+http://192.168.1.1:35455/huya/52988
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1046/d4/ec7563816731b53de23d8a3c5e7ea2_180_135.jpg?1627902372" group-title="Dread Hunger",狂鸟丶单身狗-90327
-http://192.168.1.1:35455/huya/52066(?cdn=HW)
+http://192.168.1.1:35455/huya/52066
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1059/06/17c17227ad6afbf51c6e9a70a8e670_180_135.jpg?1607314586" group-title="星秀",集梦阿布【加油】
-http://192.168.1.1:35455/huya/1380(?cdn=HW)
+http://192.168.1.1:35455/huya/1380
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1047/5c/4d80f4387076b0ca7ce542ed5e5884_180_135.jpg?1619514979" group-title="和平精英",不求人
-http://192.168.1.1:35455/huya/9986(?cdn=HW)
+http://192.168.1.1:35455/huya/9986
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/12/5dc2603f810eb80e5197aab7dcfc00_180_135.jpg?1653595931" group-title="户外",集梦张开朗【233】
-http://192.168.1.1:35455/huya/955721(?cdn=HW)
+http://192.168.1.1:35455/huya/955721
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/69/bd1103cfc60c16ca1092dc5605ae86_180_135.jpg?1652816734" group-title="户外",集梦启导【启大大】
-http://192.168.1.1:35455/huya/52711(?cdn=HW)
+http://192.168.1.1:35455/huya/52711
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1071/d5/b5133c5e761584ae41555ab90a29da_180_135.jpg?1654432943" group-title="星秀",阳宝宝、
-http://192.168.1.1:35455/huya/16188(?cdn=HW)
+http://192.168.1.1:35455/huya/16188
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1051/c3/1aefb66117d5b6c72c4c61fc9ac69f_180_135.jpg?1615477000" group-title="星秀",Yz、你的周周【大美女】
-http://192.168.1.1:35455/huya/52088(?cdn=HW)
+http://192.168.1.1:35455/huya/52088
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/60/418535334bd9b1213090f8c8c8e0cf_180_135.jpg?1659284557" group-title="交友",仙女-爱刷不刷
-http://192.168.1.1:35455/huya/520312(?cdn=HW)
+http://192.168.1.1:35455/huya/520312
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/b2/f7a27be6dec5ca5c36fc1f5a71eec5_180_135.jpg?1636647688" group-title="交友",盛世-仙女湖-池御最御
-http://192.168.1.1:35455/huya/520765(?cdn=HW)
+http://192.168.1.1:35455/huya/520765
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/76/0fc5fe81fef3a39e6cf470c6009d50_180_135.jpg?1636299901" group-title="交友",萌新-初遇女孩
-http://192.168.1.1:35455/huya/20516729(?cdn=HW)
+http://192.168.1.1:35455/huya/20516729
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/cb/9d859ba1a87431f0ec20f57f3ccfa4_180_135.jpg?1591180682" group-title="英雄联盟",kRYST4L
-http://192.168.1.1:35455/huya/222523(?cdn=HW)
+http://192.168.1.1:35455/huya/222523
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/09/4084809aa31b9ec35c28608ace9c4c_180_135.jpg?1640346979" group-title="王者荣耀",LING-张老三
-http://192.168.1.1:35455/huya/52333(?cdn=HW)
+http://192.168.1.1:35455/huya/52333
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/70/b0429856d8a002a2f21a0d91ff19b0_180_135.jpg?1607744697" group-title="天天吃鸡",微竞-陈子豪
-http://192.168.1.1:35455/huya/199300(?cdn=HW)
+http://192.168.1.1:35455/huya/199300
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1082/64/b3bb6f0caa54e70a0391bceab9e093_180_135.jpg?1482606779" group-title="永劫无间",狂鸟丶董小飒-90327
-http://192.168.1.1:35455/huya/13579(?cdn=HW)
+http://192.168.1.1:35455/huya/13579
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/be/1b9fe747d10d00648c73633353d2c3_180_135.jpg?1630244763" group-title="王者荣耀",狼队小胖
-http://192.168.1.1:35455/huya/24147418(?cdn=HW)
+http://192.168.1.1:35455/huya/24147418
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1097/09/2be017ac7938c7c1edf91daaba7670_180_135.jpg?1415905104" group-title="英雄联盟",微竞-芜湖神
-http://192.168.1.1:35455/huya/353322(?cdn=HW)
+http://192.168.1.1:35455/huya/353322
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/bd/71d6c2980da8897e11f4d565000642_180_135.jpg?1658994114" group-title="天天吃鸡",久帝-告白
-http://192.168.1.1:35455/huya/88617(?cdn=HW)
+http://192.168.1.1:35455/huya/88617
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/42/20ceab40027f04b7ab4c6ae3debd19_180_135.jpg?1646294318" group-title="天天吃鸡",天霸-沫子
-http://192.168.1.1:35455/huya/696969(?cdn=HW)
+http://192.168.1.1:35455/huya/696969
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/8a/84300b56ff1bca8c95fb09fa4a3d50_180_135.jpg?1579462327" group-title="天天吃鸡",星魂
-http://192.168.1.1:35455/huya/967722(?cdn=HW)
+http://192.168.1.1:35455/huya/967722
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/32/86308d2580c7231112f1fd2b3ada8d_180_135.jpg?1598929905" group-title="问道",小熊【问道】
-http://192.168.1.1:35455/huya/52818(?cdn=HW)
+http://192.168.1.1:35455/huya/52818
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/ce/0f38b9aee645f8d46b2c57a5b93a3c_180_135.jpg?1657913164" group-title="户外",盛世-安安【922】
-http://192.168.1.1:35455/huya/573175(?cdn=HW)
+http://192.168.1.1:35455/huya/573175
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/67/fb386bded71910f1dfec349ae82ec4_180_135.jpg?1638352435" group-title="二次元",深情默指导
-http://192.168.1.1:35455/huya/415355(?cdn=HW)
+http://192.168.1.1:35455/huya/415355
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/bd/47353b7be04bcf43875b5c816d5675_180_135.jpg?1642590373" group-title="二次元",不二丸叽
-http://192.168.1.1:35455/huya/628219(?cdn=HW)
+http://192.168.1.1:35455/huya/628219
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看",周星星
-http://192.168.1.1:35455/huya/11342412(?cdn=HW)
+http://192.168.1.1:35455/huya/11342412
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/4d/ec3add7d2b61dd7d5cf4fdbab8c4fe_180_135.jpg?1607941459" group-title="体育",虎牙斯诺克
-http://192.168.1.1:35455/huya/880214(?cdn=HW)
+http://192.168.1.1:35455/huya/880214
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/41/39fb2e647f3be3e7b28e56871abca3_180_135.jpg?1653379018" group-title="星秀",快乐老家
-http://192.168.1.1:35455/huya/880351(?cdn=HW)
+http://192.168.1.1:35455/huya/880351
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/56/340b54d92d229900efc30658b3e1b2_180_135.jpg?1652042239" group-title="星秀",MG-不晚
-http://192.168.1.1:35455/huya/142410(?cdn=HW)
+http://192.168.1.1:35455/huya/142410
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1001/67/cf9c5936a6e3cfddb2d3b230e5cf1f_180_135.jpg?1659606705" group-title="星秀",盛世-妙妙【815】
-http://192.168.1.1:35455/huya/894644(?cdn=HW)
+http://192.168.1.1:35455/huya/894644
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/81/3eb03395b94a64546e349b5a58b3a8_180_135.jpg?1654867893" group-title="交友",星括-在逃公主
-http://192.168.1.1:35455/huya/20389851(?cdn=HW)
+http://192.168.1.1:35455/huya/20389851
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1092/69/e0134fded69a4987de9e9a0c4105ae_180_135.jpg?1627480365" group-title="交友",天皓-广岛之恋
-http://192.168.1.1:35455/huya/19911809(?cdn=HW)
+http://192.168.1.1:35455/huya/19911809
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="英雄联盟",Zz1tai姿态
-http://192.168.1.1:35455/huya/333003(?cdn=HW)
+http://192.168.1.1:35455/huya/333003
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/5a/80475bf4f9cd261eb51d3328134197_180_135.jpg?1627324296" group-title="王者荣耀",灵石丶小锦儿
-http://192.168.1.1:35455/huya/813749(?cdn=HW)
+http://192.168.1.1:35455/huya/813749
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/55/8f31b50d463cf08b95e5d3d9d7119c_180_135.jpg?1632040318" group-title="王者荣耀",狼队Fly
-http://192.168.1.1:35455/huya/742610(?cdn=HW)
+http://192.168.1.1:35455/huya/742610
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/70/3ba6db576629de9f18a992e52e27ce_180_135.jpg?1612268804" group-title="王者荣耀",久爱-小予神【矛神】
-http://192.168.1.1:35455/huya/503708(?cdn=HW)
+http://192.168.1.1:35455/huya/503708
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1087/56/d331b2a91744b15644fd3682778670_180_135.jpg" group-title="英雄联盟",小战
-http://192.168.1.1:35455/huya/520611(?cdn=HW)
+http://192.168.1.1:35455/huya/520611
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/c2/43b62ce1547c3b15beb03d63d4a409_180_135.jpg?1575461923" group-title="lol云顶之弈",慎独
-http://192.168.1.1:35455/huya/31421(?cdn=HW)
+http://192.168.1.1:35455/huya/31421
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/05/839fa0775c1b807845e9d5e5d92b0c_180_135.jpg?1642331198" group-title="穿越火线",女战神梧桐
-http://192.168.1.1:35455/huya/812813(?cdn=HW)
+http://192.168.1.1:35455/huya/812813
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/23/4c8c7a479660cf8694cbcd549f4361_180_135.jpg?1538161823" group-title="穿越火线",久帝-阿飞
-http://192.168.1.1:35455/huya/512000(?cdn=HW)
+http://192.168.1.1:35455/huya/512000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/ca/85bab76cc83a7feac8fa4f8a7fef31_180_135.jpg?1528216863" group-title="炉石传说",炉石丶春哥
-http://192.168.1.1:35455/huya/312410(?cdn=HW)
+http://192.168.1.1:35455/huya/312410
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/7d/89e4e171ba7096627addce658805ef_180_135.jpg?1637345618" group-title="二次元",酥酥学姐
-http://192.168.1.1:35455/huya/10779705(?cdn=HW)
+http://192.168.1.1:35455/huya/10779705
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/3a/23a697f568984460e1dc4d058b5c85_180_135.jpg?1643699658" group-title="户外",高冷男神钱小佳
-http://192.168.1.1:35455/huya/229346(?cdn=HW)
+http://192.168.1.1:35455/huya/229346
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1068/7f/f6d48f0a3dba4268e3a25dcbfe8040_180_135.jpg?1572345822" group-title="美食",囧囧宠物-涛哥
-http://192.168.1.1:35455/huya/433357(?cdn=HW)
+http://192.168.1.1:35455/huya/433357
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/13/669d74b914caa0275df23ea1746025_180_135.jpg?1654440706" group-title="星秀",JT-吉米
-http://192.168.1.1:35455/huya/27255973(?cdn=HW)
+http://192.168.1.1:35455/huya/27255973
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/cb/d4b4f15449d22a6548c98d78f89eab_180_135.jpg?1658161304" group-title="星秀",王芯恩Tree
-http://192.168.1.1:35455/huya/516171(?cdn=HW)
+http://192.168.1.1:35455/huya/516171
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/17/7c4d5c4613e7313fbd4e73198b1c5e_180_135.jpg?1633682164" group-title="星秀",华星飞天鹤【夜影闺女】
-http://192.168.1.1:35455/huya/222929(?cdn=HW)
+http://192.168.1.1:35455/huya/222929
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/15/0ac231163e847d603758b76b3f0cd0_180_135.jpg?1657888085" group-title="星秀",正恒丶林恩
-http://192.168.1.1:35455/huya/52095(?cdn=HW)
+http://192.168.1.1:35455/huya/52095
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/80/045bb13188d9a0a7fac49992466799_180_135.jpg?1611217944" group-title="交友",LING-觅爱巡欢
-http://192.168.1.1:35455/huya/20612782(?cdn=HW)
+http://192.168.1.1:35455/huya/20612782
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/37/4cdeda4b08a061d40f1633abc43588_180_135.jpg?1594222128" group-title="交友",乐悠-如约而至
-http://192.168.1.1:35455/huya/227788(?cdn=HW)
+http://192.168.1.1:35455/huya/227788
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/b0/db9039e58ddc22e9dc345031827997_180_135.jpg?1653662958" group-title="交友",ST-虎牙食堂
-http://192.168.1.1:35455/huya/18551368(?cdn=HW)
+http://192.168.1.1:35455/huya/18551368
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/ed/3b52c61952cba6829d2cad1a5ce6f4_180_135.jpg?1649156258" group-title="交友",LS-甜你余生
-http://192.168.1.1:35455/huya/22620841(?cdn=HW)
+http://192.168.1.1:35455/huya/22620841
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/68/495b16b192deec93f5dbe6a6910367_180_135.jpg?1589663752" group-title="王者荣耀",韩涵TuT
-http://192.168.1.1:35455/huya/774810(?cdn=HW)
+http://192.168.1.1:35455/huya/774810
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/66/6aba6b4323ab3c52960e7bf169d08e_180_135.jpg?1653400276" group-title="王者荣耀",KPL职业联赛
-http://192.168.1.1:35455/huya/660002(?cdn=HW)
+http://192.168.1.1:35455/huya/660002
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/15/2ec654879061bb90798058d501120a_180_135.jpg?1659643969" group-title="王者荣耀",AzZ丶左不会
-http://192.168.1.1:35455/huya/73012(?cdn=HW)
+http://192.168.1.1:35455/huya/73012
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1021/1c/3f8c54cedfe48bfc8bd8e91478ab9a_180_135.jpg?1657180845" group-title="天天吃鸡",女教官yyds
-http://192.168.1.1:35455/huya/52027(?cdn=HW)
+http://192.168.1.1:35455/huya/52027
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/10/8bc5fbfd959766028e82c176aa7f4d_180_135.jpg?1619779464" group-title="穿越火线",AG绝迹
-http://192.168.1.1:35455/huya/115959(?cdn=HW)
+http://192.168.1.1:35455/huya/115959
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/cb/395c83019535380077c79d175439f4_180_135.jpg?1539858390" group-title="问道手游",初心-左某人
-http://192.168.1.1:35455/huya/138542(?cdn=HW)
+http://192.168.1.1:35455/huya/138542
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/38/940e3beb56d2bf98c01beb07a52a88_180_135.jpg?1536327871" group-title="暗区突围",巅峰-伯爵
-http://192.168.1.1:35455/huya/895966(?cdn=HW)
+http://192.168.1.1:35455/huya/895966
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/55/f70f177b439519af2d5c04c400b584_180_135.jpg?1592683117" group-title="王者荣耀",许仙【许一波】
-http://192.168.1.1:35455/huya/52033(?cdn=HW)
+http://192.168.1.1:35455/huya/52033
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1047/66/4e89f8b229f6ba66e4158f110b902e_180_135.jpg?1655045439" group-title="我的世界",狂鸟丶夏天y【聚火】
-http://192.168.1.1:35455/huya/110120(?cdn=HW)
+http://192.168.1.1:35455/huya/110120
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/2f/975a5571a1d37f2d638d27da41926a_180_135.jpg?1614844770" group-title="王者模拟战",DK丶微凉
-http://192.168.1.1:35455/huya/591756(?cdn=HW)
+http://192.168.1.1:35455/huya/591756
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/38/4c5095675744de26d023c477f06637_180_135.jpg?1575355308" group-title="lol云顶之弈",ice
-http://192.168.1.1:35455/huya/598527(?cdn=HW)
+http://192.168.1.1:35455/huya/598527
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/9f/dfa37c735f938fc44878302d786cd8_180_135.jpg?1657106196" group-title="户外",子圣-798
-http://192.168.1.1:35455/huya/528040(?cdn=HW)
+http://192.168.1.1:35455/huya/528040
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/74/15cb18ae3267e18c3aba00c085254c_180_135.jpg?1633884629" group-title="二次元",柳婉音
-http://192.168.1.1:35455/huya/872315(?cdn=HW)
+http://192.168.1.1:35455/huya/872315
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/f8/34d059072960187b05c59ed35a8aeb_180_135.jpg?1595819862" group-title="二次元",正恒RM丶多痣
-http://192.168.1.1:35455/huya/297385(?cdn=HW)
+http://192.168.1.1:35455/huya/297385
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/74/e55bb9ab24be1d4bf0677b3d33be13_180_135.jpg?1653132455" group-title="星秀",AH、小星星星呐
-http://192.168.1.1:35455/huya/347285(?cdn=HW)
+http://192.168.1.1:35455/huya/347285
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/3f/44c0ab7b0642aba3bc5aa79a3cbd61_180_135.jpg?1638942787" group-title="星秀",华耀-李壹壹
-http://192.168.1.1:35455/huya/52111(?cdn=HW)
+http://192.168.1.1:35455/huya/52111
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/10/bba3b8debe9ae157c0cf91a0da0d8c_180_135.jpg?1623356273" group-title="星秀",正恒-贝美拉【王徒】578
-http://192.168.1.1:35455/huya/831392(?cdn=HW)
+http://192.168.1.1:35455/huya/831392
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1074/5c/4021a8bcd469baa93ef3fa52ec0e7f_180_135.jpg?1621579180" group-title="交友",星途-魂牵梦萦
-http://192.168.1.1:35455/huya/20405455(?cdn=HW)
+http://192.168.1.1:35455/huya/20405455
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/63/8031de736373531f1a65a9b771f293_180_135.jpg?1654617502" group-title="交友",仙女-花前月下
-http://192.168.1.1:35455/huya/24019812(?cdn=HW)
+http://192.168.1.1:35455/huya/24019812
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1078/90/3ba6e8cbdc3ae3c9ea2e2192f8583a_180_135.jpg?1600249073" group-title="交友",天皓-Luckygirl云日冠
-http://192.168.1.1:35455/huya/20402362(?cdn=HW)
+http://192.168.1.1:35455/huya/20402362
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1019/ee/ffabf13c4cc3effa9398c2859ac9c8_180_135.jpg?1640700311" group-title="炉石传说",瓦莉拉
-http://192.168.1.1:35455/huya/100270(?cdn=HW)
+http://192.168.1.1:35455/huya/100270
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/53/3843846b171e70b349b3dc20cf3283_180_135.jpg?1599557316" group-title="天天狼人",HT-神秘狗
-http://192.168.1.1:35455/huya/399910(?cdn=HW)
+http://192.168.1.1:35455/huya/399910
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/48/387ffaa0c37db57a37ccc666b04bdc_180_135.jpg?1585923321" group-title="英雄联盟",V1ncent丶文森特
-http://192.168.1.1:35455/huya/949527(?cdn=HW)
+http://192.168.1.1:35455/huya/949527
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1033/bd/39b5110640ab7438ca3c59264ac247_180_135.jpg?1415872606" group-title="英雄联盟",黑店百地
-http://192.168.1.1:35455/huya/645588(?cdn=HW)
+http://192.168.1.1:35455/huya/645588
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1065/aa/280697e929ad0f077f2aa8a475bc6d_180_135.jpg?1646118854" group-title="英雄联盟",曙望-起点
-http://192.168.1.1:35455/huya/25412021(?cdn=HW)
+http://192.168.1.1:35455/huya/25412021
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/f5/4fd222cd3e334a7381bd86c2dcc8e0_180_135.jpg?1649524553" group-title="王者荣耀",AzZ丶蜜小涛
-http://192.168.1.1:35455/huya/861098(?cdn=HW)
+http://192.168.1.1:35455/huya/861098
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1020/12/e74fcc9102d9945c1f596d7765e87b_180_135.jpg?1642602583" group-title="王者荣耀",狼队妖刀
-http://192.168.1.1:35455/huya/20524480(?cdn=HW)
+http://192.168.1.1:35455/huya/20524480
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1008/34/899c87a07133aa37c16203d71c744a_180_135.jpg?1658596873" group-title="王者荣耀",纯家-纯哥
-http://192.168.1.1:35455/huya/52055(?cdn=HW)
+http://192.168.1.1:35455/huya/52055
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/31/33f340ce6688c038bc77e8d334cc2a_180_135.jpg?1583579002" group-title="lol云顶之弈",Dae-75战文欲
-http://192.168.1.1:35455/huya/344817(?cdn=HW)
+http://192.168.1.1:35455/huya/344817
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/75/39da13f138dd3c64e58f98582f2da1_180_135.jpg?1628494692" group-title="我的世界",微竞-我是桶子哥
-http://192.168.1.1:35455/huya/122294(?cdn=HW)
+http://192.168.1.1:35455/huya/122294
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1057/dc/82f11ffd3f1198662b56f354054bbd_180_135.jpg?1634308178" group-title="户外",音动-霹雳爷们儿
-http://192.168.1.1:35455/huya/274874(?cdn=HW)
+http://192.168.1.1:35455/huya/274874
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1056/e7/c61ec3ae80bbc93817186f3a41d47c_180_135.jpg?1449028717" group-title="一起看",鯎爺
-http://192.168.1.1:35455/huya/11352944(?cdn=HW)
+http://192.168.1.1:35455/huya/11352944
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/6e/39676d88e04e209d1aa2126582fd3d_180_135.jpg?1566179946" group-title="一起看",野原新之助-
-http://192.168.1.1:35455/huya/11352970(?cdn=HW)
+http://192.168.1.1:35455/huya/11352970
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1056/b9/04d543c5673b197f3e6cf3df236c63_180_135.jpg?1600930442" group-title="二次元",夏乔恩Q-Q
-http://192.168.1.1:35455/huya/20634062(?cdn=HW)
+http://192.168.1.1:35455/huya/20634062
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1078/5c/2d8dae275104c51d8a4a58359544e6_180_135.jpg?1654043245" group-title="星秀",盛世-郑晓填
-http://192.168.1.1:35455/huya/28277(?cdn=HW)
+http://192.168.1.1:35455/huya/28277
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/ed/7615d8d77fcde87b709ad8da3eaba5_180_135.jpg?1591718944" group-title="星秀",大鱼-金米米【洲】
-http://192.168.1.1:35455/huya/294157(?cdn=HW)
+http://192.168.1.1:35455/huya/294157
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/83/6203698f9dc8f1670fb35e7ce1540a_180_135.jpg?1645479313" group-title="星秀",环星-小梦mm
-http://192.168.1.1:35455/huya/712797(?cdn=HW)
+http://192.168.1.1:35455/huya/712797
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/b3/495db98a89a9f983a13e27b1dd5ecc_180_135.jpg?1576828825" group-title="交友",逸鹿-摇曳的心
-http://192.168.1.1:35455/huya/20554306(?cdn=HW)
+http://192.168.1.1:35455/huya/20554306
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1046/e5/6d88224941ecc8c02f369a3287e56c_180_135.jpg?1650803568" group-title="交友",遇见-官宣女友
-http://192.168.1.1:35455/huya/175221(?cdn=HW)
+http://192.168.1.1:35455/huya/175221
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/92/9b21e1b4f1c4b0127b5dfe92aefcb5_180_135.jpg?1627361911" group-title="交友",赢城-最强王者视频厅
-http://192.168.1.1:35455/huya/11688735(?cdn=HW)
+http://192.168.1.1:35455/huya/11688735
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/2e/aed9bfe2015e9872ceddcba2f7583b_180_135.jpg?1649677214" group-title="英魂之刃",YX丶语然、小歘歘
-http://192.168.1.1:35455/huya/17101440(?cdn=HW)
+http://192.168.1.1:35455/huya/17101440
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1061/2a/6dedd1e4f382c255f6c87be99f126e_180_135.jpg?0" group-title="王者荣耀",空伐Void
-http://192.168.1.1:35455/huya/960427(?cdn=HW)
+http://192.168.1.1:35455/huya/960427
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/8b/cced09acf3eee09f3ce82e712835dd_180_135.jpg?1655527294" group-title="暗黑破坏神：不朽",巅峰-立强
-http://192.168.1.1:35455/huya/612139(?cdn=HW)
+http://192.168.1.1:35455/huya/612139
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1015/b0/35547ec3eaa70766e25281af30092b_180_135.jpg?1634212252" group-title="星际争霸",Plu三炮
 http://192.168.1.1:35455/huya/617694
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1071/20/51a670bebea1c09c0fb634ad6f591d_180_135.jpg?1658475793" group-title="王者荣耀",花城工作室
@@ -423,7 +423,7 @@ http://192.168.1.1:35455/huya/12808
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/47/a4cbbc6fce82bd5e696060f34e6dac_180_135.jpg?1632403907" group-title="二次元",可爱的埋埋
 http://192.168.1.1:35455/huya/222624
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1022/2b/1e4fa172491920d69d80976e02cd47_180_135.jpg" group-title="一起看",瞬间爆炸
-http://192.168.1.1:35455/huya/11352960(?cdn=HW)
+http://192.168.1.1:35455/huya/11352960
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/ac/28f2da3021c8abae2c9b5a7ca42400_180_135.jpg?1625487661" group-title="其他直播",余庆伟
 http://192.168.1.1:35455/huya/572821
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1059/b9/75fe3662aac04ac595b0d9c06b16eb_180_135.jpg?1652593422" group-title="虚拟偶像",视觉丶熊熊饼干
@@ -1633,7 +1633,7 @@ http://192.168.1.1:35455/huya/21057127
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/95/56a61c65b771df32a3a03ad9b3cea4_180_135.jpg?1620586669" group-title="王者荣耀",赢城酷九【天花板梦奇】
 http://192.168.1.1:35455/huya/173409
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/33/b6467219cbdbda1306edb9ebf29d2c_180_135.jpg?1543546825" group-title="一起看",虎牙影院
-http://192.168.1.1:35455/huya/11601968(?cdn=HW)
+http://192.168.1.1:35455/huya/11601968
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/60/cca1dc201b313cc714c07e5d6d0b0d_180_135.jpg?1642072256" group-title="交友",toz-王牌
 http://192.168.1.1:35455/huya/21827199
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/8b/08f8e9d76e3db8953adea332dca219_180_135.jpg?1653809531" group-title="星秀",中凯-潮汕妹子团
@@ -2381,7 +2381,7 @@ http://192.168.1.1:35455/huya/18710100
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1036/98/626f04cf9c1a78be50aba2ab522904_180_135.jpg?1624609969" group-title="交友",FR-招财进宝
 http://192.168.1.1:35455/huya/22414406
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/3b/03e68e81bcd4e1629e140c437cbfb9_180_135.jpg?1586861841" group-title="一起看",虎牙八点档
-http://192.168.1.1:35455/huya/880261(?cdn=HW)
+http://192.168.1.1:35455/huya/880261
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1065/1a/4a5cd465ec70b75876807aa0f9af7a_180_135.jpg?1660470794" group-title="颜值",一叔【快乐星球】
 http://192.168.1.1:35455/huya/632969
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1029/cc/9ee49ab56939bd2cb49f947cb709ef_180_135.jpg?1658740412" group-title="星秀",一只小桃娇
@@ -4775,7 +4775,7 @@ http://192.168.1.1:35455/huya/435491
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1029/55/60c5186e95e72e3294b8b8f91fe929_180_135.jpg?1567592232" group-title="地下城与勇士",AH丶北瞧疯
 http://192.168.1.1:35455/huya/17865892
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/7c/59463e1dae2b791e495fd124255f18_180_135.jpg?1658361364" group-title="经典怀旧",旭日东升-兒僮牌
-http://192.168.1.1:35455/huya/513713(?cdn=HW)
+http://192.168.1.1:35455/huya/513713
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1068/e0/220b4eb0c89fe08cf06f887a96c10d_180_135.jpg?1632513347" group-title="户外",绿绿的小尾巴【116】
 http://192.168.1.1:35455/huya/520218
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/0b/0d0368649771771224dc095b401eb0_180_135.jpg?1654171296" group-title="交友",初心-念念不忘
