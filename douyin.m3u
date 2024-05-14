@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/mosaic-legacy_a09a001cbe87a5ffee25~c5_300x300.jpeg?from=2956013662" group-title="王者荣耀", 张大仙
-http://192.168.1.2:35455/douyin/63592101250
+http://192.168.1.179:35455/douyin/63592101250
 #EXTINF:-1 tvg-logo="https://p6.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5b7b07ab3b1d88dd516f41065dcc4047.jpeg?from=3067671334" group-title="王者荣耀", 王者荣耀官方
-http://192.168.1.2:35455/douyin/82485729980
+http://192.168.1.179:35455/douyin/82485729980
